@@ -1,10 +1,12 @@
 # SI_2026_lab2_243218
 Ведран Ѓошевски 243218
 
-CFG for searchByBookTitle
+**CFG for searchByBookTitle**
+
 <img width="520" height="569" alt="CFG searchBookBy Title" src="https://github.com/user-attachments/assets/fa37bdcb-c066-4db4-b3f5-852d99b54643" />
 
-CFG for borrowBook
+**CFG for borrowBook**
+
 <img width="496" height="625" alt="CFG borrowBook" src="https://github.com/user-attachments/assets/f63b8787-60c8-4042-988e-fb1988dc8fe9" />
 
 
